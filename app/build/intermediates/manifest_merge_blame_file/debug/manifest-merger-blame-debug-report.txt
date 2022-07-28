@@ -6,43 +6,43 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml
+8-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml
+9-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:5:5-21:19
+11-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:5:5-21:19
 12        android:allowBackup="true"
-12-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:6:9-35
+12-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.7.0] /home/ramirjunior/.gradle/caches/transforms-3/a927d619ce56469f35da2fa2f2cd3b0b/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
-16-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:7:9-43
+16-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:7:9-43
 17        android:label="@string/app_name"
-17-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:8:9-41
+17-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:8:9-41
 18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:9:9-54
+18-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
-19-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:10:9-35
+19-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:10:9-35
 20        android:theme="@style/Theme.FirstAppCourse" >
-20-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:11:9-52
+20-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:11:9-52
 21        <activity
-21-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:12:9-20:20
+21-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:12:9-20:20
 22            android:name="com.example.firstappcourse.MainActivity"
-22-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:13:13-41
+22-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:13:13-41
 23            android:exported="true" >
-23-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:14:13-36
+23-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:14:13-36
 24            <intent-filter>
-24-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:15:13-19:29
+24-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:15:13-19:29
 25                <action android:name="android.intent.action.MAIN" />
-25-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:16:17-69
-25-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:16:25-66
+25-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:16:17-69
+25-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:16:25-66
 26
 27                <category android:name="android.intent.category.LAUNCHER" />
-27-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:18:17-77
-27-->/home/ramirjunior/StudioProjects/FirstAppCourse/app/src/main/AndroidManifest.xml:18:27-74
+27-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:18:17-77
+27-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:18:27-74
 28            </intent-filter>
 29        </activity>
 30

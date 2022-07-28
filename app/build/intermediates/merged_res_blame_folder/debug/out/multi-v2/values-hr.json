@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ramirjunior/StudioProjects/FirstAppCourse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
+            "outputFile": "/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
             "map": [
                 {
                     "source": "/home/ramirjunior/.gradle/caches/transforms-3/a927d619ce56469f35da2fa2f2cd3b0b/transformed/core-1.7.0/res/values-hr/values-hr.xml",
