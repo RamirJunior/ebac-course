@@ -3,24 +3,24 @@
 3    package="com.example.firstappcourse.test" >
 4
 5    <uses-sdk
-5-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:5:5-74
+5-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:5:5-74
 6        android:minSdkVersion="23"
-6-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:5:15-41
-7        android:targetSdkVersion="32" />
-7-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:5:42-71
+6-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:5:42-71
 8
 9    <instrumentation
-9-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:11:5-15:76
+9-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:11:5-15:76
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:11:22-76
+10-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:11:22-76
 11        android:functionalTest="false"
-11-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:14:22-52
+11-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:13:22-53
+12-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:13:22-53
 13        android:label="Tests for com.example.firstappcourse"
-13-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:15:22-74
+13-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:15:22-74
 14        android:targetPackage="com.example.firstappcourse" />
-14-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:12:22-72
+14-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:12:22-72
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.4.0] /home/ramirjunior/.gradle/caches/transforms-3/46f38231339d3528dd538e41fbb77ae3/transformed/core-1.4.0/AndroidManifest.xml:24:5-72
@@ -40,12 +40,12 @@
 22    </queries>
 23
 24    <application
-24-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:7:5-9:19
+24-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:7:5-9:19
 25        android:debuggable="true"
 26        android:extractNativeLibs="false" >
 27        <uses-library android:name="android.test.runner" />
-27-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:8:9-60
-27-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16800254890304686969.xml:8:23-57
+27-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:8:9-60
+27-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14649493874561785676.xml:8:23-57
 28
 29        <activity
 29-->[androidx.test:core:1.4.0] /home/ramirjunior/.gradle/caches/transforms-3/46f38231339d3528dd538e41fbb77ae3/transformed/core-1.4.0/AndroidManifest.xml:27:9-34:20
