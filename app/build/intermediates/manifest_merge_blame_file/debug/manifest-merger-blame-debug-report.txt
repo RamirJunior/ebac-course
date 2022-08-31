@@ -11,22 +11,22 @@
 9-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml
 10
 11    <permission
-11-->[androidx.core:core:1.9.0-beta01] /home/ramirjunior/.gradle/caches/transforms-3/d5f68829635381883765ad11fded42ea/transformed/core-1.9.0-beta01/AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0-rc01] /home/ramirjunior/.gradle/caches/transforms-3/f0a85e6534d06a352ad54c829106404c/transformed/core-1.9.0-rc01/AndroidManifest.xml:22:5-24:47
 12        android:name="com.example.firstappcourse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0-beta01] /home/ramirjunior/.gradle/caches/transforms-3/d5f68829635381883765ad11fded42ea/transformed/core-1.9.0-beta01/AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0-rc01] /home/ramirjunior/.gradle/caches/transforms-3/f0a85e6534d06a352ad54c829106404c/transformed/core-1.9.0-rc01/AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0-beta01] /home/ramirjunior/.gradle/caches/transforms-3/d5f68829635381883765ad11fded42ea/transformed/core-1.9.0-beta01/AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0-rc01] /home/ramirjunior/.gradle/caches/transforms-3/f0a85e6534d06a352ad54c829106404c/transformed/core-1.9.0-rc01/AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.example.firstappcourse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0-beta01] /home/ramirjunior/.gradle/caches/transforms-3/d5f68829635381883765ad11fded42ea/transformed/core-1.9.0-beta01/AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0-beta01] /home/ramirjunior/.gradle/caches/transforms-3/d5f68829635381883765ad11fded42ea/transformed/core-1.9.0-beta01/AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0-rc01] /home/ramirjunior/.gradle/caches/transforms-3/f0a85e6534d06a352ad54c829106404c/transformed/core-1.9.0-rc01/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0-rc01] /home/ramirjunior/.gradle/caches/transforms-3/f0a85e6534d06a352ad54c829106404c/transformed/core-1.9.0-rc01/AndroidManifest.xml:26:22-94
 16
 17    <application
 17-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:5:5-21:19
 18        android:allowBackup="true"
 18-->/home/ramirjunior/AndroidStudioProjects/ebac-course/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0-beta01] /home/ramirjunior/.gradle/caches/transforms-3/d5f68829635381883765ad11fded42ea/transformed/core-1.9.0-beta01/AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0-rc01] /home/ramirjunior/.gradle/caches/transforms-3/f0a85e6534d06a352ad54c829106404c/transformed/core-1.9.0-rc01/AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"

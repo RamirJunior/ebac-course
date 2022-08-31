@@ -1,38 +1,19 @@
 package com.example.firstappcourse
 
-fun main() {
-    val factory = VehicleFactory()
-    val motoca = factory.createVehicle(2)
-    val carritcho = factory.createVehicle(1)
+fun main(){
 
-    val vehicleList: List<Vehicle> = mutableListOf(motoca, carritcho)
+    println(UtilityHelper.isWeekend())
 
-    vehicleList.forEach { vehicle ->
-        vehicle.increaseVelocity()
-        println("${vehicle.model} velocity = ${vehicle.velocity} M/h")
-    }
 }
 
-class VehicleFactory {
-    fun createVehicle(option: Int): Vehicle {
-        return when (option) {
-            1 -> Car()
-            2 -> Motocycle()
-            else -> Truck() //Sugestão
-        }
-    }
-}
+object UtilityHelper {
+    private var currentDay: DayOfWeek = DayOfWeek.SUNDAY
 
-class Truck() : Vehicle() {
-    override var acceleration: Long = 0
-    override var model: String = "Scania"
-
-    override fun increaseVelocity() {
-        this.velocity += 15
+    fun setCurrentDay(day: DayOfWeek) {
+        this.currentDay = day
     }
 
-    override fun decreaseVelocity() {
-        this.velocity -= 15
-        if (velocity < 0) velocity = 0
+    fun isWeekend() : Boolean {
+        return (currentDay == DayOfWeek.SUNDAY) || (currentDay == DayOfWeek.SATURDAY)
     }
 }
